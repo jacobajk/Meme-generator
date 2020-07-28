@@ -16,3 +16,4 @@ Meme generator project to apply concepts learnt in Bob Ziroll's [Reactjs Full Be
 3. Click on "Generate" button to initiate a random image.
 
 ## Sample
+![image](https://user-images.githubusercontent.com/68107482/88660027-92240880-d108-11ea-92fb-90c491687e1d.png)
