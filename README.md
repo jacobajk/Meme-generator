@@ -1,5 +1,5 @@
 # Meme-generator
-Meme generator project to apply concepts learnt in Bob Ziroll's [Reactjs Full Beginner Course on Scimba] (https://www.youtube.com/watch?v=DLX62G4lc44)
+Meme generator project to apply concepts learnt in Bob Ziroll's [Reactjs Full Beginner Course on Scimba](https://www.youtube.com/watch?v=DLX62G4lc44).
 
 ## Concepts learnt:
 1. ReactDOM nad JSX
