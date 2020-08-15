@@ -16,4 +16,4 @@ Meme generator project created using ReactJS
 3. Click on "Generate" button to initiate a random image.
 
 ## Sample
-![image](https://user-images.githubusercontent.com/68107482/88660608-a3b9e000-d109-11ea-8e60-3040cfb61f07.png)
+<img src="https://user-images.githubusercontent.com/68107482/88660608-a3b9e000-d109-11ea-8e60-3040cfb61f07.png" width="500" height="500" />
